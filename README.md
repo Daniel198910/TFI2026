@@ -1,4 +1,4 @@
-## Trabajo Intregador Final
+## Trabajo Integrador Final
 ## Integrantes del equipo
 
 Nombre Apellido:
